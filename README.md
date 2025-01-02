@@ -1,6 +1,14 @@
 # Uçak Serbest Atış Animasyonu Projesi
 
 Bu proje, 2021 yılında İnternet Tabanlı Programlama dersi kapsamında 1. ödev olarak geliştirilmiş bir Windows Forms uygulamasıdır. Uygulama, bir uçağın belirli bir yükseklikten bomba bırakma simülasyonunu gerçekleştirmektedir.
+## Görseller
+
+![image](https://github.com/user-attachments/assets/db8fbdf6-36d0-4427-a565-f36aa791d0aa)
+
+![image](https://github.com/user-attachments/assets/c72ec008-a399-40c8-8743-100c3bdeea0d)
+
+![image](https://github.com/user-attachments/assets/b7926c56-fd30-4073-a931-fe3742311a1d)
+
 
 ## Özellikler
 
