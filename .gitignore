@@ -1,0 +1,67 @@
+# Visual Studio özel dosyaları
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build sonuçları
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# MSTest test sonuçları
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet paketleri
+*.nupkg
+# NuGet Symbol paketleri
+*.snupkg
+# Paket klasörü
+**/[Pp]ackages/*
+# NuGet v3 project.json dosyaları
+*.nuget.props
+*.nuget.targets
+
+# Windows Forms Designer ürettiği geçici dosyalar
+*.resx.bak
+
+# Visual Studio tarafından oluşturulan diğer dosyalar
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc 
